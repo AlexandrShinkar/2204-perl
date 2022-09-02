@@ -2,8 +2,8 @@ dist: xenial
 group: dev
 language: perl
 perl:
-  - 5.34.1
-  - 5.36.0 
+  - 5.34
+  - 5.36
 install: skip
 script:
   - perl --version
